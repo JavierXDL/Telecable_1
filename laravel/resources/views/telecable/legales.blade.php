@@ -19,4 +19,10 @@
 <a href="{{ asset('assets/pdf/Contrato_tv_restringida.pdf') }}" style="color:#000000; text-decoration: none;" target="_blank"> Contrato TV Restringida 07 de Agosto del 2018 </a>
 </div> <!-- Fin del cuarto Container-->
 
+<div class=" prueba container mt-5"> <!--cuarto prueba-->
+<a href="{{ asset('assets/pdf/Contrato_tv_restringida.pdf') }}" style="color:#000000; text-decoration: none;" target="_blank"> Contrato TV Restringida 07 de Agosto del 2018 </a>
+</div> <!-- Fin del cuarto Container-->
+
+
+
 @endsection
