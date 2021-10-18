@@ -1,0 +1,43 @@
+/* darle color de fondo a la card (difuminar) */
+.card-header {
+    background: linear-gradient(#fec300, #ffd95b) !important;
+    font-size: 200%;
+    font-family: "Roboto", sans-serif;
+}
+.card-body {
+    background: linear-gradient(#d2eeff, #fff2f2) !important;
+}
+/* redimencion de las imagenes de el card "Paquete Basico" */
+.imgPB {
+    height: auto;
+    width: auto;
+    max-width: 50px;
+    max-height: 300px;
+    margin: 1em;
+}
+.img2PB {
+    height: auto;
+    width: auto;
+    max-width: 200px;
+    max-height: 300px;
+}
+/*fin de redimencion de las imagenes de el card "Paquete Basico" */
+
+/* darle sombreado ala card del paqueteBasico */
+
+.card {
+    box-shadow: 20px 20px 20px #d2d2dd;
+}
+
+/* fin de sombreado ala card del paqueteBasico */
+/* para darler tamaño de las letras de la card del paqueteBasico */
+.lyricscard,
+.titlecanales {
+    font-size: 300%;
+    font-family: "Roboto", sans-serif;
+}
+.textoresaldado {
+    font-size: 130%;
+    font-family: "Roboto Mono", monospace;
+}
+/* fin de tamaño de letra de card del paquete */
